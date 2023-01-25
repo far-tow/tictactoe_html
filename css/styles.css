@@ -1,0 +1,55 @@
+body {
+    background: rgb(249, 233, 217);
+    text-align: center;
+}
+
+.tbl {
+    margin: auto;
+}
+.game {
+    background-color:#f29007;
+    width: 20px;
+    height: 20px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 36px;
+    
+}
+
+.btn {
+    background-color: #033bf5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.info {
+    background-color: #b1d1e7;
+    color: black;
+    font-size: 26px;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px 32px;
+}
+
+a {
+    color: deeppink;
+    font-size: 16pt;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    margin: 6px 4px;
+}
+a:visited {
+    color: rgb(249, 33, 5);
+}
+a:hover, a:focus {
+    color: white;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    font-size: 110%;
+}
